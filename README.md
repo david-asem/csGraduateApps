@@ -1,40 +1,47 @@
 # csGraduateApps
-A curated list of application resources for prospective graduate students in Computer Science and related fields. List created by [Chinasa T. Okolo](http://www.chinasaokolo.com), a Computer Science PhD student at Cornell. Feel free to fork and make pull requests with new opportunities!
+A curated list of application resources for prospective graduate students in Computer Science and related fields. List created by [Chinasa T. Okolo](http://www.chinasaokolo.com), a Computer Science PhD graduate from Cornell. Feel free to fork and make pull requests with new opportunities!
 
-There are dozens of PhD programs in Computer Science (based in the United States) who accept applicants each year, so I won't list them out here but will provide resources to help you along your journey. Fortunately, many departments have started applicant support programs for underrepresented students (primarily PhD students) applying to their respective programs! Check out the list below:
+There are dozens of PhD programs in Computer Science (based in the United States) that accept applicants each year, so I won't list them out here but will provide resources to help you along your journey. Fortunately, many departments have started applicant support programs for underrepresented students (primarily PhD students) applying to their respective programs! Check out the list below:
 
-Will be updating for 2022 as soon as I can! In the meantime, this [Twitter thread](https://twitter.com/andrewkuznet/status/1572589678360145922?s=20&t=qDG5vPKqlP480FvBZaI6Ig) may be helpful. For programs I have not seen updates for the 2022 application cycle, they are listed as "Status Unknown".
+For programs I have not seen updates for the upcoming application cycle, they are listed as "Status Unknown".
+
+**Deadlines for 2024-2025 cycle have been updated**
+
+Please note that these programs are primarily for underrepresented students who have little access to external support in preparing their graduate school applications. Given the limited support available by many of these programs, it is important to be thoughtful in applying to these programs.
 
 ## Applicant Support Programs 
 | School        | Program       | Deadline     | Masters/PhD  | Other details |
 | ------------- |:-------------:| ------------:| ------------:| ------------:|
-| Brown | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLScdG8AjMHfKAYmG8BqRBek6QffvZGUOTl9vgHnlClAUPZuOQw/viewform) | Rolling | Both | Status Unknown | 
-| Carnegie Mellon | [Computer Science](https://www.cs.cmu.edu/gasp) | Rolling | Both |              | 
-| Carnegie Mellon | [Human-Computer Interaction](https://docs.google.com/forms/d/e/1FAIpQLSeBMe-7vZ0cyofdJWmXkNMvNxx8J9uJp5FHhe0uK_OEZq0I1A/viewform) | Rolling  | PhD |              | 
-| Cornell | [Computer Science](https://www.cs.cornell.edu/information/news/newsitem12443/student-applicant-support-program-computer-science-phd) | October 7th, 2022  | PhD |              |
-|         | [Information Science](https://docs.google.com/forms/d/e/1FAIpQLSd4Rrsa7QYKS7V8B283gC0mpqqBALRSnCbIzr3SV9uLZHXqxw/viewform) | TBD | PhD | Status Unknown |
-|         | [Operations Research](https://forms.gle/FEBgiRyAqhPhEcGr9) | TBD | PhD | Status Unknown |
-| Columbia | [Computer Science](https://www.cs.columbia.edu/cscu-phd-par-program/) | November 7th, 2022 | PhD |  |
-| ETH Zurich | [All departments](https://sites.google.com/view/ethpaap) | November 1st, 2022 | MSc |              |
+| Brown | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLScdG8AjMHfKAYmG8BqRBek6QffvZGUOTl9vgHnlClAUPZuOQw/viewform) | TBD | Both | Status Unknown | 
+| Carnegie Mellon | [Computer Science](https://www.cs.cmu.edu/academics/phd/application-support) | September 30, 2023 | PhD |              | 
+|  | [Human-Computer Interaction](https://docs.google.com/forms/d/e/1FAIpQLSeBMe-7vZ0cyofdJWmXkNMvNxx8J9uJp5FHhe0uK_OEZq0I1A/viewform) | TBD | PhD |    | 
+| Cornell | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLSeim214cPsCypGeK7rQSGiUVtapoXTDbrlIxzHYmyeAYN_hew/viewform?usp=sf_link) | October 6, 2023  | PhD |              |
+|         | [Information Science](https://forms.gle/vNqUsUDHE7A4hroB7) | November 10, 2023 | PhD |  |
+|         | [Operations Research](https://forms.gle/FEBgiRyAqhPhEcGr9) | December 1, 2023 | PhD |  |
+| Columbia | [Computer Science](https://www.cs.columbia.edu/cscu-phd-par-program/) | November 10, 2023 | PhD |  |
+| ETH Zurich | [All departments](https://www.ethzpaap.com/) | TBD | MSc |  Status Unknown  |
 | Georgia Tech | [College of Computing](https://forms.office.com/pages/responsepage.aspx?id=u5ghSHuuJUuLem1_Mvqgg9xAot3THqRBplHR_fgRBB9UOTRaQ0hWNTVCNjlGTzE2TTIxTlZCTE5YWi4u) | TBD | PhD | Status Unknown |
-| Johns Hopkins | [Computer Science and Electrical Engineering](https://www.clsp.jhu.edu/apply-for-phd/) | November 20th, 2022 | PhD |              |
-| MIT | [Electrical Engineering and Computer Science (EECS)](https://eecs-gaap.mit.edu/) | November 15th, 2022 | PhD |              |
-| Northwestern | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLScb1gexOTGCijOyujF5RJDBU7KXdYaYA8Dii2wXV2bv-TkjhQ/viewform) | TBD | PhD | Status Unknown |
-| Oregon State University | [Computer Science](https://www.aigsa.club/) | Rolling | PhD |              |
-| Princeton | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLSfKre2DhYTb65Ma21y4xPWxThX9YFClTz9YTSY_885WCLw0dA/viewform) | TBD | PhD | Status Unknown |
-| Stanford | [Computer Science](https://cs.stanford.edu/admissions/phd/general-information) | October 29th, 2022 | PhD |              |
-| UC Berkeley | [Electrical Engineering and Computer Science (EECS)](https://sites.google.com/berkeley.edu/eaaa/home) | October 8th, 2022 | Both |               |
-|  | [School of Information (iSchool)](https://docs.google.com/forms/d/e/1FAIpQLSeGHXypnrBYIkJL2jsSbAHFqoEDUnZFlqQqqVCLafTL2w_8tw/closedform) | TBD | PhD | Status Unknown | 
-| University of Chicago | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLScWh8dLviaAfUee4TEb6DENuBennnEpZZ71it1JQJ4UcWbiDw/viewform) | November 15th, 2022 | PhD |              |
-| University of Colorado Boulder | [Computer Science](https://www.colorado.edu/cs/admissions/graduate-admissions) | November 15th, 2022 | PhD |              |
-| University of Massachusetts Amherst | [Computer Science](https://paspumasscs.github.io) | Rolling | PhD | Status Unknown |
-| University of Michigan | [Electrical Engineering and Computer Science (EECS)](https://docs.google.com/forms/d/e/1FAIpQLSfgppaIsr1eMjVtqLuX1lFpmoYTAIBOsDj8reDfgEs8OPCrlg/viewform) | Rolling | PhD |              |
-| University of Pennsylvania | [Computer and Information Science](https://docs.google.com/forms/d/1ds010dwWkV6ZFwUhhrB1-NWFZfHAOFV7ZcytIZ6JDew) | TBD | PhD | Status Unknown |
-|         | [Bioengineering](https://docs.google.com/forms/d/e/1FAIpQLSdsr2p5e9RldmUe5qpEpSpRThKFEhII0KSPtZ3hvFEVmdCaPg/viewform) | November 5th, 2022 | PhD |              |
+| Johns Hopkins | [Computer Science and Electrical Engineering](https://www.clsp.jhu.edu/apply-for-phd/) | November 19, 2023 | PhD |              |
+| MIT | [Electrical Engineering and Computer Science (EECS)](https://eecs-gaap.mit.edu) | November 8th, 2023 | PhD |              |
+| Northwestern | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLSchg_HC_1gPvxKMBkOjleih4rVuGX894Slr_RfBh7URSv_81w/closedform) | November 8, 2023 | PhD |  |
+| Oregon State University | [Computer Science](https://www.aigsa.club/aiasp/) | November 1, 2023 | PhD |            |
+| Princeton | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLSeDGcQpK2CM9cdFCwfjmqOay9F26_EJMSSyKNHq_7BT2rhneg/viewform) | November 1, 2023 | PhD |  |
+| Stanford | [Computer Science](https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/media/file/sasp2023final_0.pdf) | October 27, 2023 | PhD |              |
+| UC Berkeley | [Electrical Engineering and Computer Science (EECS)](https://sites.google.com/berkeley.edu/eaaa/home) | October 8th, 2023 | Both |               |
+|  | [School of Information (iSchool)](https://www.ischool.berkeley.edu/programs/phd/apply/faq#feedback) | November 15th, 2023 | PhD |  | 
+| University of Chicago | [Computer Science](https://docs.google.com/forms/d/e/1FAIpQLSeNwJSngePVrKxv8oMVpOnHilfYTm3bdwlVRoQN0jtVxWqvhQ/viewform) | November 25, 2023 | PhD | |
+| University of Colorado Boulder | [Computer Science](https://www.colorado.edu/cs/admissions/graduate-admissions) | TBD | PhD | Status Unknown |
+| University of Massachusetts Amherst | [Computer Science](https://paspumasscs.github.io) | November 20, 2023 | PhD |  |
+| University of Michigan | [Electrical Engineering and Computer Science (EECS)](https://docs.google.com/forms/d/e/1FAIpQLSfgppaIsr1eMjVtqLuX1lFpmoYTAIBOsDj8reDfgEs8OPCrlg/viewform) | TBD | PhD | Status Unknown |
+|         | [Information School](https://docs.google.com/forms/d/e/1FAIpQLScNeA4kUsDwdwFCrAldBOm9kd8CrD8hIc8bmTPsnCTWqZET5g) | November 15th, 2023 | PhD | |
+| University of Pennsylvania | [Computer and Information Science](https://docs.google.com/forms/d/e/1FAIpQLSeJZIy_fiIbuPb4aQRygRPkxiYk0gq20o1zmhQNprKvKK4GsQ) | November 10, 2023 | PhD |  |
+|         | [Bioengineering](https://docs.google.com/forms/d/e/1FAIpQLSeJZIy_fiIbuPb4aQRygRPkxiYk0gq20o1zmhQNprKvKK4GsQ) | November 10, 2023 | PhD |             |
 | University of Texas at Austin | [Computer Science](https://www.cs.utexas.edu/graduate-program/prospective-students/applicationmentorship) | TBD | PhD | Status Unknown |
-| University of Toronto | [Computer Science](https://sites.google.com/view/torontogaap) | TBD | Both | Status Unknown |
-| University of Washington | [Computer Science](https://www.cs.washington.edu/academics/phd/admissions/pams) | October 15th, 2022 | PhD |              |
-|         | [Electrical & Computer Engineering](https://docs.google.com/forms/d/e/1FAIpQLSd4Rrsa7QYKS7V8B283gC0mpqqBALRSnCbIzr3SV9uLZHXqxw/viewform) | TBD | PhD | Status Unknown |
+| University of Toronto | [Computer Science](https://sites.google.com/view/torontogaap) | November 3, 2023 | Both |  |
+|         | [School of Information](https://docs.google.com/forms/d/e/1FAIpQLSdUsjQ8gAx5_-DGZoX1tPLUllZTLA7_aGRr0pxmWdxIyhkxFg/viewform) | November 15, 2023 | PhD |       |
+| University of Washington | [Computer Science](https://www.cs.washington.edu/academics/phd/admissions/pams) | October 13, 2023 | PhD |  |
+|         | [Electrical & Computer Engineering](https://www.ece.uw.edu/academics/grad/graduate-info-sessions/) | November 10, 2023 | PhD |  |
+|         | [Information School](https://ischool.uw.edu/diversity/idiversity-recruiters) | Rolling | Both |  |
 |               |               |              |              |              |
 |               |               |              |              |              |
 |               |               |              |              |              |
@@ -43,9 +50,11 @@ Will be updating for 2022 as soon as I can! In the meantime, this [Twitter threa
 
 
 ## Resources for Applying to CS Graduate Programs
-When applying to graduate school, my main thesis was set in two parts: (1) the program had to be a top program (top 25 or so) in CS (2) there had to be at least 2-3 professors that I was interested in working with in the department. To be honest, I applied to schools outside of the top 25 like Emory and Washington University in St. Louis (WashU), but they also had other strong departments in medicine, computational biology, etc. that aligned with my interests at the time. To this point, I believe that my second criteria was much more important than my first criteria. It's nice to be in a top-tier program, but if you aren't doing research you're passionate about, it kinds of lessens the point for pursuing a PhD. I was fortunate to get both, but this may not always be possible.
+When applying to graduate school, my main thesis was set in two parts: (1) the program had to be a top program (top 25 or so) in CS (2) there had to be at least 2-3 professors that I was interested in working with in the department. To be honest, I applied to schools outside of the top 25, like Emory and Washington University in St. Louis (WashU), but they also had other strong departments in medicine, computational biology, etc., that aligned with my interests at the time. To this point, I believe that my second criteria was much more important than my first criteria. It's nice to be in a top-tier program, but if you aren't doing research you're passionate about, it kind of weakens the point of pursuing a PhD. I was fortunate to get both, but this may not always be possible.
 
-Also, [Black in AI](https://blackinai2020.vercel.app/) recently started their [Graduate application mentoring program](https://blackinai.github.io/post/academic_programs/) to support Black students applying to graduate programs! The deadline has passed, but stay tuned for future program updates. I've been involved with this organization for years and support everything they do.
+Also, [Black in AI](https://blackinai2020.vercel.app/) recently relaunched their [ Emerging Leaders in AI](https://blackinai.github.io/post/academic_programs/) to support Black students applying to graduate programs! If you'd like to mentor, the [interest form](https://docs.google.com/forms/d/e/1FAIpQLScbTkbxzuep4PdGhvZmxZCTktP8l90OqVR7Ma25WjJVWOHtWQ/viewform) is still open. The deadline has not opened for mentees, so stay tuned for future program updates! I've been involved with this organization for years and will be serving as a mentor for a few preparatory sessions later this November.
+
+[Queer in AI](https://www.queerinai.com) also launched their [Graduate School Application Program](https://www.queerinai.com/grad-app-aid) this year. If you have the means, please [donate](https://www.paypal.com/donate/?hosted_button_id=5S54QTPH8WCAG) to their Grad App Fund.
 
 ### Program Lists
 * [CS Rankings](http://csrankings.org/#/index?all) (My favorite resource for finding top CS programs!)
